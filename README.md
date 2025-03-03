@@ -25,6 +25,3 @@ Run the simulation:
 python simulation.py
 ```
 Modify the torque functions inside `simulation.py` to experiment with different controls.
-
-## 📊 Example Output
-The simulation generates plots showing how the **joint angles** evolve over time.
