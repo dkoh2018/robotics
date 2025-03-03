@@ -24,4 +24,3 @@ Run the simulation:
 ```bash
 python simulation.py
 ```
-Modify the torque functions inside `simulation.py` to experiment with different controls.
